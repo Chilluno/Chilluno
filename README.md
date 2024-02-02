@@ -24,15 +24,9 @@ I mainly like to dabble in the front-end side of things but never opposed to lea
 
 ## ✨ Hobbies!
 
-🌎 Learning Foreign Languages! (Currently learning Japanese, Chinese and Korean!)
-🎮 Playing Video Games!
-📖 Reading Manga and Comics!
-
-   ---
-
-## 📊 Stats!
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alekmik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌎 Learning Foreign Languages! (Currently learning Japanese, Chinese and Korean!)<br>
+🎮 Playing Video Games!<br>
+📖 Reading Manga and Comics!<br>
 
    ---
 
