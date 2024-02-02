@@ -1,6 +1,5 @@
 # [![wesley slimani header](/assets/Hello.gif)](https://chilluno.github.io/my-portfolio/)
 
-   ---
 
 <p>
 An aspiring web developer from France trying to make sense of it all with what I like! 
@@ -11,14 +10,14 @@ I mainly like to dabble in the front-end side of things but never opposed to lea
 
 ## 💻 Tools!
 
-[![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)]
-[![REACTJS](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)]
-[![TAILWIND](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)]
-[![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)]
-[![GIMP](https://img.shields.io/badge/gimp-5C5543.svg?&style=for-the-badge&logo=gimp&logoColor=white)]
-[![CANVA](https://img.shields.io/badge/canva-00C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white)]
+[![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)]()
+[![REACTJS](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)]()
+[![TAILWIND](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)]()
+[![GIMP](https://img.shields.io/badge/gimp-5C5543.svg?&style=for-the-badge&logo=gimp&logoColor=white)]()
+[![CANVA](https://img.shields.io/badge/canva-00C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white)]()
 
    ---
 
