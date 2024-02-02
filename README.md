@@ -1,11 +1,10 @@
-<p align="middle"><img src="assets/Hello.gif"></p>
+<p align="center"><img src="assets/Hello.gif"></p>
 
 <p>
 An aspiring web developer from France trying to make sense of it all with what I like! 
 I mainly like to dabble in the front-end side of things but never opposed to learning new things overall!
 </p>
 
-   ---
 
 ## 💻 Tools!
 
@@ -18,7 +17,7 @@ I mainly like to dabble in the front-end side of things but never opposed to lea
 [![GIMP](https://img.shields.io/badge/gimp-5C5543.svg?&style=for-the-badge&logo=gimp&logoColor=white)]()
 [![CANVA](https://img.shields.io/badge/canva-00C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white)]()
 
-   ---
+
 
 ## ✨ Hobbies!
 
@@ -26,11 +25,10 @@ I mainly like to dabble in the front-end side of things but never opposed to lea
 🎮 Playing Video Games!<br>
 📖 Reading Manga and Comics!<br>
 
-   ---
 
 ## 🔍 Socials!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-slimani-88053b220/)
 [![Mail](https://img.shields.io/badge/mail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesley.slimani@gmail.com)
 
-<p align=middle><img src="assets/FouGitHub.gif"></p>
+<p align="center"><img src="assets/FouGitHub.gif"></p>
