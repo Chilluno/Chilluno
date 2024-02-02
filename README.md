@@ -1,4 +1,4 @@
-<img align="middle" src="assets/Hello.gif">
+<p align="middle"><img src="assets/Hello.gif"></p>
 
 <p>
 An aspiring web developer from France trying to make sense of it all with what I like! 
