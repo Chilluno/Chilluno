@@ -1,5 +1,4 @@
-# [![wesley slimani header](/assets/Hello.gif)](https://chilluno.github.io/my-portfolio/)
-
+<img align="middle" src="assets/Hello.gif">
 
 <p>
 An aspiring web developer from France trying to make sense of it all with what I like! 
